@@ -1,6 +1,6 @@
 ## Raiden Hizmet Şartları
 
-Aşağıda belirten hizmet şartlarını kabul etmeyen kullanıcılar botumuzu kullanmasınlar, kurallarımıza uyulmaması durumunda kullanıcılar bot üzerinden engellenecektir.
+Aşağıda belirten hizmet şartlarını kabul etmeyen kullanıcılar botu kullanmamayı tercih edebilir, kurallarımıza uyulmaması durumunda kullanıcılar bot üzerinden engellenecektir.
 
 **Kurallar**
 
